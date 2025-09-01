@@ -1,0 +1,15 @@
+/workspaces/CSharpParallelLabs/TestApp/bin/Debug/net8.0/TestApp
+/workspaces/CSharpParallelLabs/TestApp/bin/Debug/net8.0/TestApp.deps.json
+/workspaces/CSharpParallelLabs/TestApp/bin/Debug/net8.0/TestApp.runtimeconfig.json
+/workspaces/CSharpParallelLabs/TestApp/bin/Debug/net8.0/TestApp.dll
+/workspaces/CSharpParallelLabs/TestApp/bin/Debug/net8.0/TestApp.pdb
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfoInputs.cache
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfo.cs
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.csproj.CoreCompileInputs.cache
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.sourcelink.json
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.dll
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/refint/TestApp.dll
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.pdb
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/TestApp.genruntimeconfig.cache
+/workspaces/CSharpParallelLabs/TestApp/obj/Debug/net8.0/ref/TestApp.dll
